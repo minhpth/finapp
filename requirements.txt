@@ -1,6 +1,0 @@
-pandas
-Pillow
-matplotlib
-datetime
-yfinance
-streamlit
